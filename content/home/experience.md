@@ -41,4 +41,18 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Student"
+  company = "CMU"
+  company_url = ""
+  location = "California"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """
+  Coursework include:
+  
+  * 11785
+  * Modelling
+  * Deploying
+  """
 +++
